@@ -80,14 +80,3 @@ As part of the official submission, we provided in ILIAS:
   2. GitHub repository (this repository)  
 
 ---
-
-## 👨‍💻 Technology Stack
-- Language: Java  
-- IDEs/Editors: Eclipse, Programiz Online Compiler, VS Code (optional)  
-- Version Control: Git & GitHub  
-
----
-
-## 📅 Timeline
-- Assignment Phase I: Preparatory tasks completed in September 2025  
-- Final Screencast & Repository submitted via ILIAS  
