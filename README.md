@@ -71,3 +71,6 @@ produced when the code runs
 *Implemented by:* Harsha
 
 ---
+## 🎥 Submission Info
+  1. All Problem statement solutions: [Java Assignments 1.docx](https://github.com/user-attachments/files/22457955/Java.Assignments.1.docx)
+  2. Drive Link (video explanation of the solution): https://drive.google.com/drive/folders/1INbEoNOIywkATXxNOaSSbIDADDMPRnFk
