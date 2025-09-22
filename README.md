@@ -71,12 +71,3 @@ produced when the code runs
 *Implemented by:* Harsha
 
 ---
-
-## 🎥 Submission Info
-
-As part of the official submission, we provided in ILIAS:  
-- A text file containing *two links*:  
-  1. Screencast (video explanation of the solution)  
-  2. GitHub repository (this repository)  
-
----
